@@ -1,0 +1,142 @@
+body{
+    background: url(../images/bg-body.jpg) repeat left top;
+}
+*{
+    font-family: 'PTSerif-Caption';
+}
+.listfox a{
+    font-size: 12px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;  
+}
+.listfox a:hover{
+    color: #44b2f1;
+} 
+li.selected a{
+    color: #44b2f1;
+}
+.lorem p{
+    color: #44b2f1;
+}
+.lorem p{
+    text-align: justify;
+    font-size: 14px;
+}
+.jumb{
+    background-color: #020a13;
+    background: url(../images/bg-adbox.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.item{
+    background: url(../images/adbox-bg-heading.jpg);
+    border: 1px solid #000;
+}
+.body{
+    background: url(../images/bg-body.jpg);
+}
+.body p{
+    font-size: 13px;
+    color: white;
+    text-align: justify;
+}
+.body_1 h2{
+    font-size: 36px; 
+}
+.click-here{
+    background: url(../images/spacecraft.jpg);
+}
+.click-here h1{
+    color: #addcfe;
+    
+}
+.click-here .btn1, .btn2{
+    text-shadow: -3px 0 3px #053131;
+    background: black url(../images/interface.png) no-repeat;
+    outline: none;
+    border: none;
+}
+.btn1:hover, .btn2:hover{
+	background-position: -232px -53px;
+}
+.btn3{
+    text-shadow: -3px 0 3px #053131;
+    background: url(../images/interface.png) ;
+}
+.btn3:hover{
+    background-position: -300px -53px; 
+}
+.features{
+    background-color: #e8eff4;
+}
+.features h5 a{
+    color: #07304d;
+    text-decoration: none;
+    font-weight: 600;
+    font-style: italic;
+}
+.features p{
+    text-align: justify;
+    font-size: 12px;
+    text-align: center;
+}
+.about p{
+    font-size: 13px;
+    text-align: justify;
+    list-style: none;
+}
+.sidebar a:hover{
+    filter:alpha(opacity=80);
+	opacity:0.8;
+}
+.gallery a img{
+    width: 100%;
+}
+.gallery a:hover{
+    opacity: 0.49;
+}
+.content{
+    background: url(../images/bg-content.png) no-repeat left top;
+}
+.footer{
+    background: url(../images/bg-footer.jpg);
+}
+.footer p{
+    font-size: 14px;
+}
+.link, .link a, .link p {
+    color: #7890a1;
+    font-size: 12px;
+}
+.link a:hover{
+    color: #e8eff4;
+}
+.link_blog a, .link_blog .date{
+    color: #44b2f1;
+}
+.link_blog a:hover{
+    color: white;
+}
+label{
+    font-size: 11px;
+    color: #7890a1;
+}
+input[type="text"] {
+    border-radius: 8px;
+    background-color: white;
+}
+.footer_list li{
+    background: url(../images/border-footer.png) repeat-x left bottom;
+}
+
+.myStyle a img{
+    width: 100%;    
+}
+.form-label a:hover{
+    color: #44b2f1;
+}
+.checkbox{
+    color: rgb(255, 174, 74);
+}
+
